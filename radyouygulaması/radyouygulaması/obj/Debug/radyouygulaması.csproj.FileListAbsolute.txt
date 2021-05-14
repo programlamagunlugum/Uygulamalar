@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\bin\Debug\radyouygulaması.exe.config
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\bin\Debug\radyouygulaması.exe
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\bin\Debug\radyouygulaması.pdb
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.Form1.resources
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.Properties.Resources.resources
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.exe
+C:\Users\Acer\source\repos\radyouygulaması\radyouygulaması\obj\Debug\radyouygulaması.pdb
