@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\bin\Debug\zaruygulamasıoyunu.exe.config
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\bin\Debug\zaruygulamasıoyunu.exe
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\bin\Debug\zaruygulamasıoyunu.pdb
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.Form1.resources
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.Properties.Resources.resources
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.exe
+C:\Users\Acer\source\repos\zaruygulamasıoyunu\zaruygulamasıoyunu\obj\Debug\zaruygulamasıoyunu.pdb
